@@ -1,6 +1,6 @@
 
 
-// let nombre = prompt(`
+// let nombre = prompt(` Selecciones la opción:
 // 1.Nombre completo
 // 2.Primer apellido y segundo apellido
 // 3.Segundo apellido`);
@@ -53,18 +53,18 @@
 
 // switch (ciudad) {
 //     case `1`: 
-//     console.log(`Bucaramanga pertenece a Santander`);  
+//     alert(`Bucaramanga pertenece a Santander`);  
 //         break;
 
 //     case `2`: 
-//     console.log(`Barranquilla pertenece a Antioquia`);  
+//     alert(`Barranquilla pertenece a Atlantico`);  
 //         break;
 
 //     case `3`: 
-//     console.log(`Medellin pertenece a Antioquia`);  
+//     alert(`Medellin pertenece a Antioquia`);  
 //         break;
 
-//     default:console.log(`${ciudad} no es un valor permitido`);
+//     default:alert(`${ciudad} no es un valor permitido`);
 //         break; 
 // }
 
